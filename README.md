@@ -5,8 +5,6 @@
 
 :woman_technologist: I’m currently doing my Masters in Business Analytics at Monash University, Australia
 
-📫 You can reach me at [sahinya17@gmail.com](mailto:sahinya17@gmail.com)
-
 👀 I am looking to collaborate with anyone on any project
 
 ## :mailbox_with_mail: You can reach me at
@@ -14,7 +12,7 @@
 <a href="mailto:sahinya17@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" style="vertical-align:top; margin:4px">
 </a>
-<a href="www.linkedin.com/in/sahinyaakila">
+<a href="https://www.linkedin.com/in/sahinyaakila/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30" style="vertical-align:top; margin:4px">
 </a></p>
 
