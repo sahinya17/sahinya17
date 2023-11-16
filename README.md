@@ -58,5 +58,4 @@
 ### Version Control
 <p>
 <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Git" height="20" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/apache_subversion/apache_subversion-icon.svg" alt="Apache Subversion" height="40" style="vertical-align:top; margin:4px">
 </p>
