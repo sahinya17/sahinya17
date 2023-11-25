@@ -3,7 +3,7 @@
 
 :monocle_face: I’m interested in Business and Data Analytics
 
-:woman_technologist: I’m currently working as a Analyst Programmer at Symbolix Pty Ltd 
+:woman_technologist: I’m currently working as a Data Scientist at Symbolix Pty Ltd 
 
 ## :mailbox_with_mail: You can reach me at
 <p align = "center">
